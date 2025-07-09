@@ -53,13 +53,6 @@ Logistic Regression modeling
 
 Evaluation metrics
 
-## 📂 Folder Structure
-Copy
-Edit
-.
-├── news.csv
-├── fake_news_detection.ipynb
-├── README.md
 
 ## Visualization
 Label distribution using sns.countplot.
